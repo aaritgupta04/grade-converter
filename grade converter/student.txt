@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "username": "aarit",
+  "email": "aarit.gupta2011@gmail.com",
+  "salt": "rwsu5miMjyhHN1usCXyVsg==",
+  "password_hash": "a84hx8MSg/wxDlb02fWEujE6/frTTJMewgbJc+r0DQs=",
+  "iterations": 600000
+}

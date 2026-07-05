@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "students": [
+    "aarit"
+  ],
+  "grades": {
+    "aarit": {
+      "scores": {
+        "Maths": 100.0,
+        "English": 90.0,
+        "Sports": 80.0,
+        "Drawing": 70.0,
+        "Science": 60.0
+      },
+      "total": 400.0,
+      "average": 80.0,
+      "grade": 5.0
+    }
+  }
+}
